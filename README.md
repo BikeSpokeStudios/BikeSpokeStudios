@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BikeSpokeStudios
-- 👀 I’m interested in Full-Stack Web Development and Cloud-based Software Engineering.
+- Hi, I’m @BikeSpokeStudios
+-  I’m interested in Full-Stack Web Development; Cloud-based Software Engineering; Open Source and Collaboration; Linux and Server Architecture.
 - 🌱 I’m currently learning Shopify development, Ruby, and Vim!
 - 📫 How to reach me: parkerdavid292@gmail.com
 
