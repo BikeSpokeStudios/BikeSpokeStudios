@@ -1,4 +1,4 @@
-- Hi, I’m @BikeSpokeStudios
+- Hi, I’m David Parker
 -  I’m interested in Full-Stack Web Development; Cloud-based Software Engineering; Open Source and Collaboration; Linux and Server Architecture.
 - I’m currently learning Elixir/OTP and Phoenix LiveView!
 - How to reach me: parkerdavid292@gmail.com
